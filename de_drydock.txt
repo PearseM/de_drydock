@@ -1,0 +1,8 @@
+//overview: scale 4.00, pos_x -1694, pos_y 2517
+"de_drydock"
+{
+	"material"	"overviews/de_drydock"
+	"pos_x"		"-1694"
+	"pos_y"		"2517"
+	"scale"		"4"
+}
