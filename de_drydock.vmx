@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6846"
-	"mapversion" "68"
+	"mapversion" "69"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "68"
+	"mapversion" "69"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -24983,10 +24983,10 @@ entity
 		side
 		{
 			"id" "66"
-			"plane" "(-432 -1400 322) (-432 -1224 322) (112 -1224 322)"
+			"plane" "(-430 -1469 322) (-430 -1293 322) (114 -1293 322)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 -32] 0.25"
+			"uaxis" "[1 0 0 -8] 0.25"
+			"vaxis" "[0 -1 0 -52] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -24994,10 +24994,10 @@ entity
 		side
 		{
 			"id" "65"
-			"plane" "(-432 -1224 0) (-432 -1400 0) (112 -1400 0)"
+			"plane" "(-430 -1293 0) (-430 -1469 0) (114 -1469 0)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 -32] 0.25"
+			"uaxis" "[1 0 0 -8] 0.25"
+			"vaxis" "[0 -1 0 -52] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -25005,9 +25005,9 @@ entity
 		side
 		{
 			"id" "64"
-			"plane" "(-432 -1400 0) (-432 -1224 0) (-432 -1224 322)"
+			"plane" "(-430 -1469 0) (-430 -1293 0) (-430 -1293 322)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0 1 0 32] 0.25"
+			"uaxis" "[0 1 0 52] 0.25"
 			"vaxis" "[0 0 -1 8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -25016,9 +25016,9 @@ entity
 		side
 		{
 			"id" "63"
-			"plane" "(112 -1224 0) (112 -1400 0) (112 -1400 322)"
+			"plane" "(114 -1293 0) (114 -1469 0) (114 -1469 322)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0 1 0 32] 0.25"
+			"uaxis" "[0 1 0 52] 0.25"
 			"vaxis" "[0 0 -1 8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -25027,9 +25027,9 @@ entity
 		side
 		{
 			"id" "62"
-			"plane" "(-432 -1224 0) (112 -1224 0) (112 -1224 322)"
+			"plane" "(-430 -1293 0) (114 -1293 0) (114 -1293 322)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
+			"uaxis" "[1 0 0 -8] 0.25"
 			"vaxis" "[0 0 -1 8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -25038,9 +25038,9 @@ entity
 		side
 		{
 			"id" "61"
-			"plane" "(112 -1400 0) (-432 -1400 0) (-432 -1400 322)"
+			"plane" "(114 -1469 0) (-430 -1469 0) (-430 -1469 322)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
+			"uaxis" "[1 0 0 -8] 0.25"
 			"vaxis" "[0 0 -1 8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
