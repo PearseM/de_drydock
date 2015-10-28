@@ -3,7 +3,6 @@
 /////////////////////////////////////////////////////////
 
 - Add props for lights in storage room (and readjust current light entities to match)
-- Add light entities in the light props at CT Spawn
 
 /////////////////////////////////////////////////////////
 ////Remove an item from the list when it is completed////
